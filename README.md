@@ -1,5 +1,5 @@
 Hi guys, this is my first README.md so please let me know if I've formatted anything wrong/can improve in any way would be much appreciated thanks!
-The project is a basic calculation guessing game where the first block of code represents the "Secret Number" users have to guess the secret number for the console to display a "You Win!" text.
+The project is a basic calculation guessing game created with CodeBlocks. where the first block of code represents the "Secret Number" users have to guess the secret number for the console to display a "You Win!" text.
 The second important block of code is the 'guessCount' section, this ultimately keeps a count of how many guesses the user has implemented.
 Number three is the 'guessLimit' which is set to '3' meaning the user has 3 guesses and only 3 guesses. This can be modified.
 The next line of code is a 'bool' variable for C++. Which is equal to a true or false value this becomes active in the next few lines of code.
